@@ -13,7 +13,8 @@ wipe ur msgs from dms. use with caution.
 4. enter the channel id (right click dm -> copy id).
 
 ## config
-- `delay`: seconds to wait between deletes. default 1.5s (recommended).
+- `delay`: seconds to wait between deletes. default 1.36s (recommended).
 
 
 stay safe
+
